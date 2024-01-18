@@ -15,7 +15,7 @@ This repository contains the code for Admin Panel
   - Admin Dashboard serves as CMS, Admin and API.
   - Control multiple vendors/stores through this single CMS.
   - Create, update and delete categories/products
-  - Upload multiple images for peoducts, and change them when needed.
+  - Upload multiple images for products, and change them when needed.
   - Create, update and delete filters such as "Color" and "Size", and then use them in "Product" creation form
   - Create, update and delete "Billboards" (The big texts on top of pages) and connect them to categories or use them standalone.
   -  Shows orders, sales etc.
