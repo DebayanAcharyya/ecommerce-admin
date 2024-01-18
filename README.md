@@ -7,9 +7,11 @@ It Consists of two projects:
   -  Admin Panel for vendor
   -  Store Frontend
 
-This repository contains the code for Admin Panel
+This repository contains the code for Store Frontend
 
-Key Features:
+<ins>**Key Features**</ins>:
+
+  - The frontend can be connected to the admin panel using APIs.
   - Admin Dashboard serves as CMS, Admin and API.
   - Control multiple vendors/stores through this single CMS.
   - Create, update and delete categories/products
@@ -21,5 +23,8 @@ Key Features:
   -  Authentication has been applied by using Clerk Authentication
   -  Create Orders
   -  Stripe Payment Gateway has been implemented
+  -  Stripe checkout
+  -  Stripe Webhooks
 
 <ins>Techstack</ins>: Next.js, Tailwind CSS, Prisma, MySQL
+
