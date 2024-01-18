@@ -1,4 +1,6 @@
-<h3><ins>NOTE</ins></h3> If browser shows an error after sign-in , try refreshing the page
+<b><ins>NOTE</ins></b>: If browser shows an error after sign-in , try refreshing the page
+
+<h2><ins>About</ins></h2>
 This is a repository for Full Stack E-Commerce Website.
 It Consists of two projects:
   -  Admin Panel for vendor
