@@ -1,3 +1,4 @@
+<h3><ins>NOTE</ins></h3> If browser shows an error after sign-in , try refreshing the page
 This is a repository for Full Stack E-Commerce Website.
 It Consists of two projects:
   -  Admin Panel for vendor
