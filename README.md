@@ -1,4 +1,4 @@
-<b><ins>NOTE</ins></b>: If browser shows an error after sign-in , try refreshing the page
+<b><ins>NOTE</ins></b>: If browser shows an error after signing in to the admin panel, try refreshing the page
 
 <h2><ins>About</ins></h2>
 This is a repository for Full Stack E-Commerce Website.
