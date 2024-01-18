@@ -11,7 +11,7 @@ This repository contains the code for Admin Panel
 
 <ins>**Key Features**</ins>:
 
-  - The frontend can be connected to the admin panel using APIs.
+  
   - Admin Dashboard serves as CMS, Admin and API.
   - Control multiple vendors/stores through this single CMS.
   - Create, update and delete categories/products
@@ -21,6 +21,7 @@ This repository contains the code for Admin Panel
   -  Shows orders, sales etc.
   -  Shows graphs of revenues etc.
   -  Authentication has been applied by using Clerk Authentication
+  -  The store frontend can be connected to the admin panel using APIs.
   -  Create Orders
   -  Stripe Payment Gateway has been implemented
   -  Stripe checkout
