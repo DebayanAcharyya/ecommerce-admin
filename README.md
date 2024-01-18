@@ -24,7 +24,7 @@ This repository contains the code for Admin Panel
   -  The store frontend can be connected to the admin panel using APIs.
   -  Create Orders
   -  Stripe Payment Gateway has been implemented
-  -  Stripe checkout
+  -  Stripe Checkout
   -  Stripe Webhooks
 
 <ins>Techstack</ins>: Next.js, Tailwind CSS, Prisma, MySQL
