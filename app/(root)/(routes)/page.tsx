@@ -14,7 +14,7 @@ const SetupPage = () => {
     }
   }, [isOpen, onOpen]);
 
-  return console.log("Loading Page");
+  return null;
 };
 
 export default SetupPage;
