@@ -7,7 +7,7 @@ It Consists of two projects:
   -  Admin Panel for vendor
   -  Store Frontend
 
-This repository contains the code for Store Frontend
+This repository contains the code for Admin Panel
 
 <ins>**Key Features**</ins>:
 
