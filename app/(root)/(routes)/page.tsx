@@ -8,13 +8,13 @@ const SetupPage = () => {
   const isOpen = useStoreModal((state) => state.isOpen);
 
   useEffect(() => {
-    console.log("Loading Page")
+    
     if(!isOpen){
       onOpen();
     }
   }, [isOpen, onOpen]);
 
-  return null;
+  return console.log("Loading Page");
 };
 
 export default SetupPage;
