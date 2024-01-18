@@ -3,6 +3,7 @@
 <h2><ins>About</ins></h2>
 This is a repository for Full Stack E-Commerce Website.
 It Consists of two projects:
+
   -  Admin Panel for vendor
   -  Store Frontend
 
