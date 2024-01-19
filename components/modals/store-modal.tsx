@@ -40,9 +40,9 @@ export const StoreModal = () => {
             window.location.assign(`/${response.data.id}`);
 
 
-            console.log(response.data);// remove later;
+            
         }catch (error){
-            console.log(error);//remove later;
+            
             toast.error("Something Went Wrong");
         } finally{
             setLoading(false);
